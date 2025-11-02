@@ -1,0 +1,32 @@
+{
+  "classes": [
+    "metal",
+    "white-glass",
+    "biological",
+    "paper",
+    "brown-glass",
+    "battery",
+    "trash",
+    "cardboard",
+    "shoes",
+    "clothes",
+    "plastic",
+    "green-glass"
+  ],
+  "class_counts": {
+    "metal": 769,
+    "white-glass": 775,
+    "biological": 985,
+    "paper": 1050,
+    "brown-glass": 607,
+    "battery": 945,
+    "trash": 697,
+    "cardboard": 891,
+    "shoes": 1977,
+    "clothes": 5325,
+    "plastic": 865,
+    "green-glass": 629
+  },
+  "total_images": 15515,
+  "dataset_path": "/kaggle/input/garbage-classification"
+}
