@@ -1,0 +1,27 @@
+WASTE CLASSIFICATION - MODEL EVALUATION
+============================================================
+
+Test Accuracy: 11.21%
+Test Loss: 2.7517
+
+============================================================
+CLASSIFICATION REPORT
+============================================================
+              precision    recall  f1-score   support
+
+     battery      0.207     0.282     0.239       142
+  biological      0.500     0.095     0.159       148
+ brown-glass      0.000     0.000     0.000        91
+   cardboard      0.183     0.112     0.139       134
+     clothes      0.000     0.000     0.000       799
+ green-glass      0.065     0.043     0.051        94
+       metal      0.017     0.017     0.017       115
+       paper      0.236     0.367     0.287       158
+     plastic      0.077     0.062     0.068       130
+       shoes      0.240     0.020     0.037       297
+       trash      0.065     0.587     0.118       104
+ white-glass      0.100     0.457     0.164       116
+
+    accuracy                          0.112      2328
+   macro avg      0.141     0.170     0.107      2328
+weighted avg      0.117     0.112     0.077      2328
